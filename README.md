@@ -1,4 +1,5 @@
 Tugas UAS Bahasa Pemrograman
+Merubah aplikasi menjadi 2 bahasa
 
 
 
